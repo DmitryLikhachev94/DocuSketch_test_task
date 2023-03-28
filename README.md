@@ -17,6 +17,4 @@ Create function “draw_plots”
     - draws plot for comparing different columns    
     - saves plots in a folder called “plots”    
     - returns paths to all plots    
-Create jupyter notebook called Notebook.ipynb in the root directory to call and visualize our plots    
-Publish the project on github    
-Email us with link to your project  
+Create jupyter notebook called Notebook.ipynb in the root directory to call and visualize our plots  
