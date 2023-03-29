@@ -1,4 +1,14 @@
-# Task
+# Welcome!
+
+You are looking at the completed test task for DocuSketch company.
+Here I built some graphs using OOP programming style and continued with some data exploration.
+Main result is available in Notebook.ipynb file. 
+Utility code is located in the DocuSketch.py.
+Below you can read the task itself.
+
+
+
+## Task
 
 Download pandas json : https://ai-process-sandy.s3.eu-west-1.amazonaws.com/purge/deviation.json     
 Context:     
